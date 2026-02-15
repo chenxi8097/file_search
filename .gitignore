@@ -1,0 +1,10 @@
+# Build outputs
+build/
+dist/
+__pycache__/
+*.spec
+
+# IDE
+.idea/
+.vscode/
+*.pyc
